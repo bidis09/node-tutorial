@@ -1,0 +1,6 @@
+# specifies which file will be ignored by source control
+
+# do we need to push all modules, including node_modules?
+# NO 
+
+/node_modules 
